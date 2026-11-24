@@ -1,8 +1,21 @@
 # Choose a planet
 
-<a accesskey="h" href="#user-content-gfolio-scene-home">Home (H)</a> · <a accesskey="g" href="#user-content-gfolio-scene-gfolio">gfolio (G)</a> · <a accesskey="c" href="#user-content-gfolio-scene-compono">Compono (C)</a>
+<a accesskey="h" href="#user-content-gfolio-scene-home">Home</a> · <a accesskey="g" href="#user-content-gfolio-scene-gfolio">gfolio</a> · <a accesskey="c" href="#user-content-gfolio-scene-compono">Compono</a>
 
-Click a planet, Tab to a project link and press Enter, or use your browser’s access-key modifier with G, C, or H.
+Click a planet, or use <kbd>Tab</kbd> to reach a project link and <kbd>Enter</kbd> to open it.
+
+<details>
+<summary>Keyboard shortcuts</summary>
+
+| Browser and operating system | Home | gfolio | Compono |
+| --- | --- | --- | --- |
+| Firefox on Windows or Linux | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd> |
+| Chrome or Edge on Windows or Linux | <kbd>Alt</kbd> + <kbd>H</kbd> | <kbd>Alt</kbd> + <kbd>G</kbd> | <kbd>Alt</kbd> + <kbd>C</kbd> |
+| Safari, Firefox, Chrome, or Edge on macOS | <kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>H</kbd> | <kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>G</kbd> | <kbd>Ctrl</kbd> + <kbd>Option</kbd> + <kbd>C</kbd> |
+
+These are the default combinations. Browser or system shortcut settings can override them.
+
+</details>
 
 <details name="gfolio-demo-scenes" open>
 <summary>Solar system</summary>
